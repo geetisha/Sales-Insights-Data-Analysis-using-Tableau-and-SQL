@@ -112,6 +112,4 @@ Step 5: Save the file as (.twb or .twbx)
 
 #### Creating Star Schema in Tableau
 
-#### Tableau Dashboard - [Revenue Analysis](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
-	
   
